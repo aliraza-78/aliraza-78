@@ -1,19 +1,14 @@
 <h1 align="center">Hi 👋, I'm Aliraja Ansari</h1>
 <h3 align="center">📊 Data Analyst | Python • SQL • Power BI</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aliraza-78&label=Profile%20views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/aliraza-78?label=Followers&style=social" />
-</p>
-
 ---
 
 ## 📌 About Me
 
-* 📊 Data Analyst skilled in **Python, SQL, and Power BI**
+* 📊 Data Analyst skilled in **Python, SQL, Excel, and Power BI**
 * 🧹 Experienced in **data cleaning, transformation, and analysis**
-* 📈 Focused on building **dashboards and extracting business insights**
-* 🎯 Goal: To solve real-world problems using data
+* 📈 Focused on **dashboard building and business insights**
+* 🎯 Goal: To solve real-world business problems using data
 
 ---
 
@@ -21,42 +16,46 @@
 
 ### 📊 Retail Sales & Customer Insights
 
-* Analyzed retail transaction data using **Python & SQL**
+🔗 https://github.com/aliraza-78/End-to-End-Retail-Analytics-Project
+
 * Performed **RFM analysis** to segment customers
-* Identified key revenue drivers and customer behavior patterns
-* Built an **interactive Power BI dashboard**
+* Identified **top revenue-driving segments**
+* Built **interactive Power BI dashboard**
 
 ---
 
 ### 🍽️ Restaurant Sales Analysis
 
-* Analyzed **21K+ transactions ($817K+ revenue)** using SQL
-* Used **CTEs, joins, and window functions** for deep analysis
-* Identified top-selling products and peak sales hours
-* Applied **Pareto analysis** to find high-impact revenue sources
+🔗https://github.com/aliraza-78/restaurant-sales-sql-analysis
+
+* Analyzed **21K+ transactions ($817K+ revenue)**
+* Used **CTEs, joins, window functions**
+* Identified **peak sales hours & top products**
 
 ---
 
 ### 📱 Mobile Sales Dashboard
 
-* Built a **Power BI dashboard** to track KPIs and YoY growth
-* Enabled filtering and drill-down for deeper insights
-* Improved visibility of sales performance metrics
+🔗https://github.com/aliraza-78/Mobile-Sales-Dashboard-PowerBI
+
+* Built **dynamic Power BI dashboard**
+* Tracked **KPIs & YoY growth trends**
 
 ---
 
 ## 🛠️ Tools & Technologies
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,git,linux" />
-</p>
+**Languages & Querying:**
+Python • SQL
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel"/>
-</p>
+**Libraries:**
+Pandas • NumPy
+
+**Visualization:**
+Power BI • Excel
+
+**Tools:**
+Git • Jupyter Notebook • VS Code
 
 ---
 
@@ -71,17 +70,14 @@
 
 ## 🔗 Connect with Me
 
-<p align="left">
-  <a href="https://linkedin.com/in/aliraja-ansari-914338268" target="blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" />
-  </a>
-  <a href="https://www.hackerrank.com/@rebelraza786786" target="blank">
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-hackerrank-logo-color-tal-revivo.png" />
-  </a>
-</p>
+* LinkedIn: https://linkedin.com/in/aliraja-ansari-914338268
+* GitHub: https://github.com/aliraza-78
 
 ---
 
-## ⚡ Key Strength
+## ⚡ What I Do
 
-✔ Turning raw data into actionable insights
+✔ Clean messy data
+✔ Analyze trends and patterns
+✔ Build dashboards
+✔ Turn data into business insights
